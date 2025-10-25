@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/cbf9a78a-7fd4-49fe-87f1-8477ea292ca2/console.sql" value="cbf9a78a-7fd4-49fe-87f1-8477ea292ca2" />
+    <file url="file://$PROJECT_DIR$/Java-mvc-capas-axios/db.sql" value="cbf9a78a-7fd4-49fe-87f1-8477ea292ca2" />
+  </component>
+</project>
